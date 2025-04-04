@@ -125,5 +125,9 @@ La función `swap` realiza el intercambio de dos elementos en el arreglo:
 
 
 # Gráfica comparativa de los tiempos de ejecución (obtenidos experimentalmente)
+La imagen a continuación presenta la comparación de los tiempos promedio de ejecución en relación con el tamaño de los conjuntos, correspondiente a cada uno de los algoritmos de ordenamiento evaluados.
 
+![Grafica comparacion 7](Grafica%20comparacion%207.png)
+
+El análisis de la gráfica revela que los algoritmos de ordenamiento por inserción, burbuja y selección presentan un incremento notablemente superior en sus tiempos promedio de ejecución con curvas ascendentes que indican una complejidad temporal cuadrática 𝑂(𝑛2), y conforme aumenta el tamaño de los conjuntos, lo cual evidencia su naturaleza algorítmica. Sin embargo cabe destacar que estos algoritmos fueron probados
 
