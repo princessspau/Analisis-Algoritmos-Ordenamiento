@@ -129,5 +129,5 @@ La imagen a continuación presenta la comparación de los tiempos promedio de ej
 
 ![Grafica comparacion 7](Grafica%20comparacion%207.png)
 
-El análisis de la gráfica revela que los algoritmos de ordenamiento por inserción, burbuja y selección presentan un incremento notablemente superior en sus tiempos promedio de ejecución con curvas ascendentes que indican una complejidad temporal cuadrática 𝑂(𝑛2), y conforme aumenta el tamaño de los conjuntos, lo cual evidencia su naturaleza algorítmica. Sin embargo cabe destacar que estos algoritmos fueron probados
+El análisis de la gráfica revela que los algoritmos de ordenamiento por inserción, burbuja y selección presentan un incremento notablemente superior en sus tiempos promedio de ejecución con curvas ascendentes que indican una complejidad temporal cuadrática 𝑂(𝑛2), y conforme aumenta el tamaño de los conjuntos, lo cual evidencia su naturaleza algorítmica. Sin embargo cabe destacar que estos algoritmos fueron probados con un tamaño de pruebas de 1000 en 1000, sin embargo, si estos hubieran sido probados en un rango mayor podriamos ver una curva mejor, ya que estos "picos" que se observan son debidos a 
 
