@@ -136,4 +136,5 @@ Al observar la grafica, se alcanza a distinguir la falta de claridad de cuatro a
 
 ![Grafica comparacion 4](Grafica%20comparacion%204.png)
 
+En el gráfico se aprecia que los algoritmos no tienen un crecimiento lineal en su tiempo de ejecución, lo que descarta un orden de complejidad O(n). A diferencia de los métodos básicos (inserción, burbuja y selección), los otros cuatro muestran un rendimiento notablemente superior, sugiriendo que su comportamiento no es cuadrático, sino más bien logarítmico.
 
